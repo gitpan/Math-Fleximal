@@ -7,3 +7,6 @@ Revision history for Perl extension Math::Fleximal.
 0.04  Fri Sep 26 21:30:00 PDT 2003
 	- add warnings fix from Eric Clark
 	- switch to Module::Build
+0.05  Sat Sep 27 22:30:00 PDT 2003
+	- Fix permissioning problem with Module::Build
+	- add META.yml

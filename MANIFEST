@@ -5,3 +5,4 @@ Makefile.PL
 test.pl
 README
 Build.PL
+META.yml
