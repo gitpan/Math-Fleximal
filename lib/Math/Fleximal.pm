@@ -1,5 +1,5 @@
 package Math::Fleximal;
-$VERSION = 0.03;
+$VERSION = 0.04;
 use Carp;
 use integer;
 use strict;
@@ -224,7 +224,7 @@ sub normalize {
   my $i = 0;
   my $carry = 0;
   while ($carry or $i < @$values) {
-    $carry += $values->[$i];
+    $carry += $values->[$i] if ($values->[$i]);
     while ($carry < 0) {
       $carry += $base;
       $values->[$i + 1]--;

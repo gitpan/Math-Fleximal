@@ -1,6 +1,7 @@
 Changes
-Fleximal.pm
+lib/Math/Fleximal.pm
 MANIFEST
 Makefile.PL
 test.pl
 README
+Build.PL
