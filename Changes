@@ -1,0 +1,6 @@
+Revision history for Perl extension Math::Fleximal.
+
+0.01  Sun Apr 15 05:10:50 2001
+	- original version; created by h2xs 1.19
+0.03  Mon Apr 16 19:35:46 EDT 2001
+        - add improved code from PerlMonks
