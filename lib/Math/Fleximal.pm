@@ -1,5 +1,5 @@
 package Math::Fleximal;
-$VERSION = 0.05;
+$VERSION = 0.06;
 use Carp;
 use integer;
 use strict;
@@ -664,8 +664,7 @@ ambiguities in the parsing of a string into flecks.
 
 =head1 AUTHOR AND COPYRIGHT
 
-Copyright 2000-2001, Ben Tilly
-(<ben_tilly@operamail.com>)
+Copyright 2000-2001, Ben Tilly (<btilly@gmail.com>)
 
 Math::Fleximal may be copied and distributed on the
 same terms as Perl itself.

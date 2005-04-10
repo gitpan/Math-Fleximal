@@ -10,3 +10,6 @@ Revision history for Perl extension Math::Fleximal.
 0.05  Sat Sep 27 22:30:00 PDT 2003
 	- Fix permissioning problem with Module::Build
 	- add META.yml
+0.06  Sat Apr  9 23:25 PDT 2005
+        - Change email.
+	- Switch Module::Build from passthrough to traditional.
